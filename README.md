@@ -21,7 +21,7 @@ As técnicas e tecnologias utilizadas foram:
 - Para este trabalho, não foram utilizados `frameworks` o processo se deu de forma nativa;
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos para acesso aos botões bem como a maneira de surgimento das informações dos carros de forma dinâmica.
+- `JavaScript`: construção de elementos dinâmicos para acesso aos botões bem como a maneira de surgimento das informações utilizando a função `setSlider`.
 
 #
 ## Detalhamento de trechos do código
